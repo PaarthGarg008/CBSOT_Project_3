@@ -16,7 +16,6 @@ Unlike traditional RAG systems that simply retrieve documents, this project leve
 
 # ✨ Features
 
-* 🤖 Autonomous AI Agent powered by LangGraph
 * 🧠 Stateful conversation memory using MemorySaver
 * 🔍 Semantic research paper retrieval using FAISS
 * 📚 Dense embeddings with Sentence Transformers
@@ -30,7 +29,7 @@ Unlike traditional RAG systems that simply retrieve documents, this project leve
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                      User Query
@@ -106,7 +105,7 @@ cd CBSOT_Project_3
 ### Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ### Create a `.env` file
